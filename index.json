@@ -1,0 +1,26 @@
+{
+  "version": "v1",
+  "blocklist": [],
+  "data": [
+    {
+      "schema_version": "1.0.0",
+      "id": "PixiePivot",
+      "name": "Pixie Pivot",
+      "tagline": "Set a custom pivot point by snapping and aligning the 3D cursor to mesh elements and bounding boxes",
+      "version": "1.2.0",
+      "type": "add-on",
+      "maintainer": "Armored Colony <armoredcolony@gmail.com>",
+      "license": [
+        "SPDX:GPL-3.0-or-later"
+      ],
+      "blender_version_min": "4.2.0",
+      "website": "https://github.com/ArmoredColony/PixiePivot",
+      "tags": [
+        "Workflow"
+      ],
+      "archive_url": "./ARMORED-PixiePivot-v120.zip",
+      "archive_size": 421159,
+      "archive_hash": "sha256:e6a0396c8dd248178da98681a52300272274bb6115dcc9ab7b0d893c8b2519f4"
+    }
+  ]
+}
