@@ -14,13 +14,13 @@
         "SPDX:GPL-3.0-or-later"
       ],
       "blender_version_min": "4.2.0",
-      "website": "https://github.com/ArmoredColony/PixiePivot",
+      "website": "https://github.com/ArmoredColony/PixiePivot-release",
       "tags": [
         "Workflow"
       ],
       "archive_url": "./ARMORED-PixiePivot-v120.zip",
-      "archive_size": 421872,
-      "archive_hash": "sha256:b5235256d14c52aaf4c3e1ab478c8c1555c6e65d16406d00aa5cee362d640688"
+      "archive_size": 421877,
+      "archive_hash": "sha256:5f545370bd2ed956536ce87027275fcb12f08c227e96c9424aa85eaec5d50bf4"
     }
   ]
 }
